@@ -1,0 +1,19 @@
+body {
+font-family :'Times New Roman', Times, serif;
+margin: 20px;
+background-color: lightcyan;
+}
+
+.resume-section {
+    margin-bottom:20px;
+    
+}
+h2{
+  font-size: 20px;
+  color:red;
+
+}
+p{
+  font-size: 18px;
+  color:black ;
+}
