@@ -11,7 +11,7 @@
                 font-family: 'Times New Roman', Times, serif;
             }
             .resume-section {
-               
+                margin-bottom: 20px;
                 
             }
         </style>
