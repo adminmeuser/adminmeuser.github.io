@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0073)file:///C:/Users/hp/Desktop/BEINEX/Surya%20Lakshmi%20P%20S%20-Resume.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
@@ -105,4 +105,4 @@
             SURYA LAKSHMI P S<br>PALAKKAD</p>
     </div>
 
-</body></html># adminmeuser.github.io
+</body></html>
